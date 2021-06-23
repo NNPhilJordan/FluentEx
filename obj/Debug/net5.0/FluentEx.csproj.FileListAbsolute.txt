@@ -1,0 +1,12 @@
+C:\Code Academy\nelnet-projects\FluentEx\obj\Debug\net5.0\FluentEx.csproj.AssemblyReference.cache
+C:\Code Academy\nelnet-projects\FluentEx\obj\Debug\net5.0\FluentEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code Academy\nelnet-projects\FluentEx\obj\Debug\net5.0\FluentEx.AssemblyInfoInputs.cache
+C:\Code Academy\nelnet-projects\FluentEx\obj\Debug\net5.0\FluentEx.AssemblyInfo.cs
+C:\Code Academy\nelnet-projects\FluentEx\obj\Debug\net5.0\FluentEx.csproj.CoreCompileInputs.cache
+C:\Code Academy\nelnet-projects\FluentEx\bin\Debug\net5.0\FluentEx.deps.json
+C:\Code Academy\nelnet-projects\FluentEx\bin\Debug\net5.0\FluentEx.dll
+C:\Code Academy\nelnet-projects\FluentEx\bin\Debug\net5.0\ref\FluentEx.dll
+C:\Code Academy\nelnet-projects\FluentEx\bin\Debug\net5.0\FluentEx.pdb
+C:\Code Academy\nelnet-projects\FluentEx\obj\Debug\net5.0\FluentEx.dll
+C:\Code Academy\nelnet-projects\FluentEx\obj\Debug\net5.0\ref\FluentEx.dll
+C:\Code Academy\nelnet-projects\FluentEx\obj\Debug\net5.0\FluentEx.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UEFI12qgcehWVwH3AE9QUsY7W4rA/47XNrqlTL1oyxWw/TkLtZDkKiRbQ5Vz6qD7nLSDDWnHyC8pMvrNj/NGaA==",
+  "success": true,
+  "projectFilePath": "C:\\Code Academy\\nelnet-projects\\FluentEx\\FluentEx.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pjordan\\.nuget\\packages\\fluentassertions\\5.10.3\\fluentassertions.5.10.3.nupkg.sha512",
+    "C:\\Users\\pjordan\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.0\\system.configuration.configurationmanager.4.4.0.nupkg.sha512",
+    "C:\\Users\\pjordan\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
